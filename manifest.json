@@ -1,0 +1,17 @@
+{
+  "name": "Task Flow - 任务管理系统",
+  "short_name": "Task Flow",
+  "description": "现代化的任务管理系统，支持本地数据存储",
+  "theme_color": "#42B883",
+  "background_color": "#F3EBE2",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
